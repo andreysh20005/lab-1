@@ -2,8 +2,6 @@
 
 # Задание 1
 
-## Задача 1
-
 ### Текст задачи
 
 Сформировать список из чисел, обратных вводимым значениям.
@@ -18,7 +16,17 @@
 
 Скриншоты результата работы программы
 
-## Задача 2
+<img width="1484" height="392" alt="image" src="https://github.com/user-attachments/assets/b5704a52-5e2f-4ae4-a23c-73e20de094fa" />
+<img width="691" height="102" alt="image" src="https://github.com/user-attachments/assets/b85af5e9-b552-4dda-b0d8-299c1378219a" />
+<img width="706" height="98" alt="image" src="https://github.com/user-attachments/assets/f2be239e-2cb4-4665-8da8-15dd151a0cb0" />
+<img width="902" height="220" alt="image" src="https://github.com/user-attachments/assets/96b55ffb-101a-4147-a88e-43621f3fea68" />
+
+
+
+
+
+
+# Задание 2
 
 ### Текст задачи
 
@@ -31,12 +39,12 @@
 ### Тестирование
 
 Скриншоты результата работы программы
+<img width="1487" height="565" alt="image" src="https://github.com/user-attachments/assets/7268e3d7-3c6e-40b8-b9ff-56ace67dba4b" />
 
 
 
-# Задание 2
 
-## Задача 1
+# Задание 3
 
 ### Текст задачи
 
@@ -58,4 +66,8 @@
 ### Тестирование
 
 Скриншоты результата работы программы
+<img width="675" height="597" alt="image" src="https://github.com/user-attachments/assets/477fe0b8-b93b-4583-9072-4a871e59c8d9" />
+<img width="486" height="560" alt="image" src="https://github.com/user-attachments/assets/dcecfe42-0a45-4b27-9d22-b6086dfcf2ad" />
+<img width="483" height="568" alt="image" src="https://github.com/user-attachments/assets/7e596df7-95e1-462c-9804-238aaf1af525" />
+
 
