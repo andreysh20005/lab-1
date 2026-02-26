@@ -19,8 +19,8 @@ let main _ =
         if input = "q" then 
             0
         else
-            let x = int(input) // добавить проверку ввода
+            let x = int(input)
             printfn "в числе %i количество чётных цифр = %i " x (count_odd_num x) 
             main_loop ()
-
+    main_loop ()
     0
