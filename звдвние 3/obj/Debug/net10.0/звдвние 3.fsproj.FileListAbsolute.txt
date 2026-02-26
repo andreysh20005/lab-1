@@ -1,0 +1,29 @@
+C:\Users\andre\source\repos\lab F#\звдвние 3\obj\Debug\net10.0\звдвние 3.fsproj.AssemblyReference.cache
+C:\Users\andre\source\repos\lab F#\звдвние 3\obj\Debug\net10.0\звдвние 3.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\lab F#\звдвние 3\obj\Debug\net10.0\звдвние 3.AssemblyInfo.fs
+C:\Users\andre\source\repos\lab F#\звдвние 3\obj\Debug\net10.0\звдвние 3.fsproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\звдвние 3.exe
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\звдвние 3.deps.json
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\звдвние 3.runtimeconfig.json
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\звдвние 3.dll
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\звдвние 3.pdb
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\FSharp.Core.dll
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\cs\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\de\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\es\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\fr\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\it\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\ja\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\ko\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\pl\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\ru\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\tr\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab F#\звдвние 3\bin\Debug\net10.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab F#\звдвние 3\obj\Debug\net10.0\звдвние 3.fsproj.Up2Date
+C:\Users\andre\source\repos\lab F#\звдвние 3\obj\Debug\net10.0\звдвние 3.dll
+C:\Users\andre\source\repos\lab F#\звдвние 3\obj\Debug\net10.0\refint\звдвние 3.dll
+C:\Users\andre\source\repos\lab F#\звдвние 3\obj\Debug\net10.0\звдвние 3.pdb
+C:\Users\andre\source\repos\lab F#\звдвние 3\obj\Debug\net10.0\звдвние 3.genruntimeconfig.cache
+C:\Users\andre\source\repos\lab F#\звдвние 3\obj\Debug\net10.0\ref\звдвние 3.dll
